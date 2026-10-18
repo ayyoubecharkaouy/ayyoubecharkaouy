@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Ayyoub Echarkaouy — AI, Big Data, and Full-Stack Development" width="100%" />
+  <img src="./assets/banner.svg" alt="Ayyoub Echarkaouy — AI, Data Science, Big Data, and Full-Stack Development" width="100%" />
 
   <br />
 
