@@ -1,34 +1,42 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Ayyoub Echarkaouy — AI, Data Science, Big Data, and Full-Stack Development" width="100%" />
 
-  <br />
+# Hi, I'm Ayyoub Echarkaouy 👋
 
-  **Exploring artificial intelligence, data engineering, and software development — one project at a time.**
+### Data Science & AI Master's Student | AI/ML • Data Engineering • Software Development
 
-  [![GitHub Profile](https://img.shields.io/badge/GitHub-@ayyoubecharkaouy-151B2B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayyoubecharkaouy)
+Building practical projects at the intersection of **machine learning**, **data pipelines**, and **useful software**.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayyoubecharkaouy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ma.linkedin.com/in/ayyoub-echarkaouy)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayyoubecharkaouy@gmail.com)
+
 </div>
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I'm **Ayyoub Echarkaouy**, a developer building projects across **AI / machine learning**, **Big Data**, **modern web applications**, and **Android experiences**.
+I'm a **Master's student in Data Science and Artificial Intelligence at ENSA El Jadida, Morocco**. I enjoy turning ideas into working applications, from experimental AI models to real-time data systems and user-friendly interfaces.
 
-My work includes real-time IoT dashboards, Arabic-language NLP experiments, offline music playback, and computer-vision research.
+- 🎓 **Education:** Master's in Data Science & Artificial Intelligence — ENSA El Jadida
+- 🔎 **PFE internship search:** 5–6 months, ideally starting **December 2026 or January 2027**
+- 🎯 **Target areas:** Data Science, AI/ML Engineering, Data Engineering, NLP, Computer Vision, and MLOps
+- 🌍 **Open to opportunities:** Morocco and international teams, subject to internship eligibility
+- 💡 **Interests:** AI-powered applications, streaming analytics, and reliable end-to-end systems
 
-## ⚙️ Tech Stack
+## 🛠️ Technical Stack
 
-**Languages**
+**Programming**
 
 ![Python](https://img.shields.io/badge/Python-1B263B?style=flat-square&logo=python&logoColor=F7C86A)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1B263B?style=flat-square&logo=typescript&logoColor=60A5FA)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1B263B?style=flat-square&logo=javascript&logoColor=FACC15)
 
-**AI & Data**
+**AI, Machine Learning & Data**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-1B263B?style=flat-square&logo=pytorch&logoColor=FB923C)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-1B263B?style=flat-square&logo=apachespark&logoColor=F97316)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-1B263B?style=flat-square&logo=apachekafka&logoColor=E2E8F0)
 
-**Web & Infrastructure**
+**Web Development & Infrastructure**
 
 ![Next.js](https://img.shields.io/badge/Next.js-1B263B?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-1B263B?style=flat-square&logo=nodedotjs&logoColor=86EFAC)
@@ -38,21 +46,30 @@ My work includes real-time IoT dashboards, Arabic-language NLP experiments, offl
 
 ## 🚀 Featured Projects
 
-| Project | Description | Technologies |
+| Project | What it does | Key technologies |
 |:--|:--|:--|
-| 🏙️ **[Smart City](https://github.com/ayyoubecharkaouy/smart-city)** | Real-time smart-city platform for environmental, traffic, and water data, from IoT-style simulation to streaming analytics and dashboards. | Next.js · Kafka · PySpark · Node-RED · Docker |
-| 🧠 **[Ayyech Model](https://github.com/ayyoubecharkaouy/ayyech-model)** | Experimental Arabic NLP pipeline covering text preparation, tokenization, and Transformer training workflows. | Python · PyTorch · NLP |
-| 🎵 **[AyyMusic](https://github.com/ayyoubecharkaouy/ayyoub-music)** | Local-first Android music player with an offline library, polished playback interface, playlists, and customizable metadata. | JavaScript · Tailwind CSS · Capacitor |
-| 📷 **[AyyPhoto](https://github.com/ayyoubecharkaouy/ayyoub-photo)** | **Work in progress:** image-denoising experiments using PyTorch notebooks, with a future Android app planned. | Python · PyTorch · Computer Vision |
+| 🏙️ **[Smart City](https://github.com/ayyoubecharkaouy/smart-city)** | Smart-city prototype combining simulated IoT data, real-time streams, analytics, and dashboards for environmental, traffic, and water monitoring. | Next.js · Kafka · PySpark · Node-RED · Docker |
+| 🧠 **[Ayyech Model](https://github.com/ayyoubecharkaouy/ayyech-model)** | Experimental Arabic NLP workflows involving text preprocessing, tokenization, and Transformer training. | Python · PyTorch · NLP |
+| 🎵 **[AyyMusic](https://github.com/ayyoubecharkaouy/ayyoub-music)** | Local-first Android music-player project focused on offline playback, library management, playlists, and a responsive interface. | JavaScript · Tailwind CSS · Capacitor |
+| 📷 **[AyyPhoto](https://github.com/ayyoubecharkaouy/ayyoub-photo)** | **In progress:** image-denoising experiments with PyTorch notebooks; an Android application is a future goal. | Python · PyTorch · Computer Vision |
 
-## 🎯 What I'm Exploring
+## 🔬 Current Interests
 
-- **Intelligent applications:** practical uses of AI and NLP.
-- **Streaming data systems:** connecting data pipelines with responsive dashboards.
-- **Product experience:** creating clear, useful interfaces for mobile and web.
+- **Applied AI:** exploring machine learning and NLP techniques for real-world applications.
+- **Data engineering:** developing pipelines that connect data ingestion, processing, and visualization.
+- **AI-assisted software:** designing usable applications around data and intelligent features.
+- **Engineering practices:** improving reproducibility, deployment, and maintainability as projects evolve.
+
+## 🤝 Let's Connect
+
+I'm interested in **PFE internships**, research-oriented projects, and collaborations involving **AI, data, and software engineering**.
+
+📩 **Email:** [ayyoubecharkaouy@gmail.com](mailto:ayyoubecharkaouy@gmail.com)  
+💼 **LinkedIn:** [Ayyoub Echarkaouy](https://ma.linkedin.com/in/ayyoub-echarkaouy)  
+📂 **Repositories:** [Explore my GitHub projects](https://github.com/ayyoubecharkaouy?tab=repositories)
 
 ---
 
 <div align="center">
-  <sub>Made with curiosity and code • <a href="https://github.com/ayyoubecharkaouy?tab=repositories">Explore all repositories</a></sub>
+  <sub>Learning, building, and improving — one project at a time.</sub>
 </div>
