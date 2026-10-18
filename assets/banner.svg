@@ -1,0 +1,50 @@
+<svg width="1200" height="350" viewBox="0 0 1200 350" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="350" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#081421"/>
+      <stop offset="0.55" stop-color="#121D36"/>
+      <stop offset="1" stop-color="#24143E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#5DE4E8"/><stop offset="0.55" stop-color="#7294FF"/><stop offset="1" stop-color="#B27AFF"/>
+    </linearGradient>
+    <linearGradient id="mist" x1="850" y1="20" x2="1140" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4A98FF" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#B272FA" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" stroke="#B6C7FF" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="45"/></filter>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="7"/></filter>
+    <clipPath id="round"><rect width="1200" height="350" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="350" fill="url(#bg)"/>
+    <rect width="1200" height="350" fill="url(#grid)"/>
+    <circle cx="1090" cy="130" r="190" fill="url(#mist)" filter="url(#blur)"/>
+    <circle cx="850" cy="340" r="160" fill="#4F65E8" opacity="0.10" filter="url(#blur)"/>
+    <path d="M 26 30 H 1174" stroke="#94A3B8" stroke-opacity="0.15"/>
+    <path d="M 26 320 H 1174" stroke="#94A3B8" stroke-opacity="0.15"/>
+    <rect x="56" y="58" width="186" height="29" rx="14.5" fill="#14354B" stroke="#347A96" stroke-opacity="0.8"/>
+    <circle cx="72" cy="72.5" r="4" fill="#67E8F9"/>
+    <text x="85" y="77" fill="#A2E8F3" font-size="12" letter-spacing="2.2" font-family="Arial, Helvetica, sans-serif" font-weight="bold">DEVELOPER  /  AI</text>
+    <text x="53" y="157" fill="#F4F7FF" font-size="52" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="-1.6">Ayyoub Echarkaouy</text>
+    <rect x="57" y="178" width="78" height="4" rx="2" fill="url(#accent)"/>
+    <text x="55" y="227" fill="#B8C6DF" font-size="22" font-family="Arial, Helvetica, sans-serif">AI  /  Big Data  /  Full-Stack Development</text>
+    <text x="56" y="277" fill="#7E91B3" font-size="15" font-family="Arial, Helvetica, sans-serif">Building intelligent systems and thoughtful digital experiences.</text>
+    <!-- Abstract orbital network -->
+    <g transform="translate(975 169)">
+      <circle r="108" stroke="#74BDFC" stroke-opacity="0.25" stroke-width="1.5"/>
+      <circle r="78" stroke="#B09AFF" stroke-opacity="0.42" stroke-width="1.5" stroke-dasharray="4 8"/>
+      <circle r="49" stroke="#6DE5EC" stroke-opacity="0.4" stroke-width="1.5"/>
+      <path d="M -103 -21 L -47 14 L -2 -47 L 49 -12 L 97 -51" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round"/>
+      <path d="M -81 72 L -27 32 L 31 52 L 74 36" stroke="#AA82FC" stroke-width="2" stroke-opacity="0.9" stroke-linecap="round"/>
+      <path d="M -47 14 L -27 32 L 31 52 L 49 -12" stroke="#76A6FF" stroke-width="1.4" stroke-opacity="0.55"/>
+      <g fill="#67E8F9"><circle cx="-103" cy="-21" r="5"/><circle cx="-47" cy="14" r="5"/><circle cx="49" cy="-12" r="5"/></g>
+      <g fill="#AD91FF"><circle cx="-2" cy="-47" r="5"/><circle cx="97" cy="-51" r="5"/><circle cx="31" cy="52" r="5"/><circle cx="-81" cy="72" r="5"/></g>
+      <g fill="#121B31" stroke="#89DCEC" stroke-width="2"><rect x="-22" y="-22" width="44" height="44" rx="10"/></g>
+      <path d="M -11 -7 L -2 0 L -11 7 M 3 8 L 13 8" stroke="#B7F1FC" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+</svg>
