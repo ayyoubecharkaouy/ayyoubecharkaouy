@@ -45,6 +45,7 @@ I'm a **Master's student in Data Science and Artificial Intelligence at ENSA El 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1B263B?style=flat-square&logo=tailwindcss&logoColor=67E8F9)
 ![Docker](https://img.shields.io/badge/Docker-1B263B?style=flat-square&logo=docker&logoColor=60A5FA)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1B263B?style=flat-square&logo=mongodb&logoColor=86EFAC)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-1B263B?style=flat-square&logo=apachespark&logoColor=FACC15)
 
 ## 🚀 Featured Projects
 
