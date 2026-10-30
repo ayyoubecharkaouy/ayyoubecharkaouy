@@ -26,10 +26,11 @@ I'm a **Master's student in Data Science and Artificial Intelligence at ENSA El 
 
 **Programming**
 
+![C](https://img.shields.io/badge/c-1B263B?style=flat-square&logo=c&logoColor=62b6cb)
 ![Python](https://img.shields.io/badge/Python-1B263B?style=flat-square&logo=python&logoColor=F7C86A)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1B263B?style=flat-square&logo=typescript&logoColor=60A5FA)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1B263B?style=flat-square&logo=javascript&logoColor=FACC15)
-![php](https://img.shields.io/badge/php-1B263B?style=flat-square&logo=php&logoColor=FACC15)
+![php](https://img.shields.io/badge/php-1B263B?style=flat-square&logo=php&logoColor=9d4edd)
 
 **AI, Machine Learning & Data**
 
